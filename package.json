@@ -1,0 +1,23 @@
+{
+  "name": "run-once",
+  "version": "1.0.0",
+  "description": "Simply do something once, or once under a condition",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/julienetie/run-once"
+  },
+  "keywords": [
+    "run once",
+    "once",
+    "call function once"
+  ],
+  "author": "Julien Etienne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julienetie/run-once/issues"
+  },
+  "homepage": "https://github.com/julienetie/run-once",
+  "dependencies": {
+  }
+}
