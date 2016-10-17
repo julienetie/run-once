@@ -1,5 +1,5 @@
 # run-once
-Simply do something once, or once under a condition using a custom name space.
+Simply do something once, or once under a condition using custom namespaces.
 
 ```javascript
 function colorOfTheSky(color){
